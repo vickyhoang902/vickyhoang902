@@ -12,7 +12,7 @@ I'm a current psychology major pursuing a marketing minor at Cal State Fullerton
 - Programming languages: RStudio
 - Marketing: US Census, MRI, Simply Analytics
 
-## Infographs
+## Infographics
 ![Logo](https://github-readme-stats.vercel.app/api?username=VickyHoang902)
 
 <!---
