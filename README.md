@@ -1,14 +1,9 @@
 # Hi, I'm Vicky! 👋
+I'm a current psychology major pursuing a marketing minor at Cal State Fullerton
 
 - 👀 My career goals are data analyst, data scientist, and marketing analyst. Industries that interest me are research, human resources, business/industry, healthcare, and technology.
 - 🌱 I’m currently learning SQL
 - 😄 Pronouns: She/her
-
-## 🚀 About Me
-I'm a current psychology major pursuing a marketing minor at Cal State Fullerton
-
-
-![Logo](https://github-readme-stats.vercel.app/api?username=VickyHoang902)
 
 ## 🛠 Skills
 - G Suite, Microsoft Office Suite, 
@@ -17,6 +12,8 @@ I'm a current psychology major pursuing a marketing minor at Cal State Fullerton
 - Programming languages: RStudio
 - Marketing: US Census, MRI, Simply Analytics
 
+## Infographs
+![Logo](https://github-readme-stats.vercel.app/api?username=VickyHoang902)
 
 <!---
 vickyhoang902/vickyhoang902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
