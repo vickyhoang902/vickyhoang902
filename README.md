@@ -1,10 +1,22 @@
-- 👋 Hi, I’m Vicky Hoang
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi, I'm Vicky! 👋
+
+- 👀 My career goals are data analyst, data scientist, and marketing analyst. Industries that interest me are research, human resources, business/industry, healthcare, and technology.
+- 🌱 I’m currently learning SQL
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
+
+## 🚀 About Me
+I'm a current psychology major pursuing a marketing minor at Cal State Fullerton
+
+
+![Logo](https://github-readme-stats.vercel.app/api?username=VickyHoang902)
+
+## 🛠 Skills
+- G Suite, Microsoft Office Suite, 
+- Graphic Design: Canvas, Adobe Photoshop
+- Statistical Software Suite: SPSS
+- Programming languages: RStudio
+- Marketing: US Census, MRI, Simply Analytics
+
 
 <!---
 vickyhoang902/vickyhoang902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
