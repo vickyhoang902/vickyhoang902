@@ -15,6 +15,7 @@ I'm a current psychology major pursuing a marketing minor at Cal State Fullerton
 ## Infographics
 ![Logo](https://github-readme-stats.vercel.app/api?username=VickyHoang902)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VickyHoang902&layout=compact)
 <!---
 vickyhoang902/vickyhoang902 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
